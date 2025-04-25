@@ -1,0 +1,54 @@
+[
+    {
+      "id": "1",
+      "cover": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?auto=format&fit=crop&w=800&q=80",
+      "title": "Unlocking the Power of Functional Programming",
+      "author": "Alice Johnson",
+    
+      "author_img": "https://i.ibb.co.com/j9PSBsKY/boy1.png",
+      "posted_date": "2025-04-20",
+      "reading_time": 6,
+      "hashtags": ["#JavaScript", "#FunctionalProgramming", "#CleanCode"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co.com/svFF74w0/benoit-deschasaux-Bhtj-XDK-4-V8-unsplash.jpg",
+      "title": "Why Tailwind CSS is Taking Over",
+      "author": "Mark Stevens",
+      "author_img": "https://i.ibb.co.com/SXtW2hpz/boy2.jpg",
+      "posted_date": "2025-04-21",
+      "reading_time": 4,
+      "hashtags": ["#CSS", "#Tailwind", "#Frontend"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co.com/4wzwRr93/ivo-sousa-martins-q-XNkr-U5-ENIw-unsplash.jpg",
+      "title": "10 Tips for Writing Clean React Code",
+      "author": "Sarah Thompson",
+      "author_img": "https://i.ibb.co.com/d0CG4P3m/girl2.jpg",
+      "posted_date": "2025-04-22",
+      "reading_time": 7,
+      "hashtags": ["#ReactJS", "#BestPractices", "#WebDev"]
+    },
+    {
+      "id": "4",
+      "cover": "https://images.unsplash.com/photo-1547658719-da2b51169166?auto=format&fit=crop&w=800&q=80",
+      "title": "Mastering Node.js Event Loop",
+      "author": "Tommy Nguyen",
+      "author_img": "https://i.ibb.co.com/s9dR7xxd/girl1.jpg",
+      "posted_date": "2025-04-23",
+      "reading_time": 5,
+      "hashtags": ["#NodeJS", "#Backend", "#AsyncProgramming"]
+    },
+    {
+      "id": "5",
+      "cover": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=800&q=80",
+      "title": "Beginner’s Guide to State Management",
+      "author": "Jessica Lee",
+      "author_img": "https://i.ibb.co.com/zh3wkfg3/1.jpg",
+      "posted_date": "2025-04-24",
+      "reading_time": 6,
+      "hashtags": ["#React", "#StateManagement", "#Redux"]
+    }
+  ]
+  
